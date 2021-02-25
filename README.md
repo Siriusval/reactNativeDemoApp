@@ -1,6 +1,21 @@
-# ReactNativeDemoApp
+---
+title: ReactNative Demo App
+author: vhulot
+date: 2021-01
+---
 
-**Simple App Demo with PokeAPI**
+# ReactNative Demo App
+
+**Simple App Demo with [PokeAPI](https://pokeapi.co/)**
+
+Example app for starter students before React Native project.  
+
+Using Expo framework.  
+Based on an Udemy course.
+
+## Preview
+![alt-text](gif/preview.gif "App preview")
+
 
 ## Installation Instructions
 
@@ -22,3 +37,5 @@ terminal> yarn install
 cd ReactNativeDemoApp
 yarn start # you can also use: expo start
 ```
+
+- Once Metro bundler is initialised, run on the desired platform. 
